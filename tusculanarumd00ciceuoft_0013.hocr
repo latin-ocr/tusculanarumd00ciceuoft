@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanarumd00ciceuoft_0013.png"; bbox 0 0 1674 2698; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 1086 1194 1133">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 422 1086 1194 1133">
+     <span class='ocr_line' id='line_1_1' title="bbox 422 1086 1194 1133; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 422 1090 496 1133; x_wconf 81' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 543 1088 753 1132; x_wconf 78' lang='lat' dir='ltr'>TVLLI</span> <span class='ocrx_word' id='word_1_3' title='bbox 811 1086 1194 1131; x_wconf 80' lang='lat' dir='ltr'><strong>CICERONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 1228 1469 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 1228 1469 1282">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1228 1469 1282; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 130 1232 763 1282; x_wconf 73' lang='lat' dir='ltr'><strong>TVSCVLANARVM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 826 1228 1469 1280; x_wconf 84' lang='lat' dir='ltr'>DISPVTATIONVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 587 1429 1016 1466">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 587 1429 1016 1466">
+     <span class='ocr_line' id='line_1_3' title="bbox 587 1429 1016 1466; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 587 1430 757 1466; x_wconf 82' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_7' title='bbox 801 1429 1016 1464; x_wconf 83' lang='lat' dir='ltr'>PRIMVS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
